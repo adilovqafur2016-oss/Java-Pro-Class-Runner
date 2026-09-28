@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Java Pro Class Runner
+Comment=Simple Java compile & run tool
+Exec=bash -c 'cd "$(dirname "%k")" && ./start.sh'
+Icon=utilities-terminal
+Terminal=false
+Categories=Development;IDE;
+StartupNotify=true
